@@ -18,3 +18,4 @@
 1. Cmd+F (_Find_)
 1. Cmd+Shift+F (_Advanced find_)
 1. Ctrl+Cmd+G for selecting all occurances
+1. Cmd+Shift+P (_Open command palate_)
